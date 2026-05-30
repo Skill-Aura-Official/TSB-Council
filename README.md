@@ -1,5 +1,3 @@
-# README.md
-
 <div align="center">
 
 <img src="https://res.cloudinary.com/dwadwpalt/image/upload/v1780180767/Council_bf7kpy.png" width="300">
@@ -12,9 +10,9 @@
 
 *"Order Through Brotherhood • Strength Through Unity"*
 
-[![Version](https://img.shields.io/badge/Version-1.0-gold)]()
-[![Status](https://img.shields.io/badge/Status-Active-success)]()
-[![Governance](https://img.shields.io/badge/Governance-TSB%20Council-blue)]()
+![Version](https://img.shields.io/badge/Version-1.0-gold)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Governance](https://img.shields.io/badge/Governance-TSB%20Council-blue)
 
 </div>
 
@@ -33,6 +31,8 @@ The purpose of these documents is to provide:
 * Fair moderation
 * Transparent procedures
 * Long-term organizational stability
+* Clear administrative standards
+* Community accountability
 
 ---
 
@@ -42,13 +42,14 @@ Before participating in any TSB community:
 
 ✅ Respect all members
 ✅ No harassment or bullying
-✅ No NSFW media
 ✅ No scams or deceptive activities
+✅ No NSFW content
 ✅ Respect privacy and consent
 ✅ Respect age-related boundaries
 ✅ Follow Voice Chat rules
 ✅ Follow moderator instructions
 ✅ Appeals go through Council Support
+✅ Help build a positive community environment
 
 ---
 
@@ -60,9 +61,9 @@ Before participating in any TSB community:
 
 </div>
 
-TSB operates under a structured governance model designed to maintain fairness, accountability, and long-term community growth.
+TSB operates under a structured governance framework designed to ensure stability, fairness, accountability, and long-term growth.
 
-### Authority Hierarchy
+## Authority Hierarchy
 
 ```text
 Founder
@@ -76,7 +77,7 @@ Moderators
 Members
 ```
 
-The TSB Council serves as the highest governing authority within communities operating under TSB.
+The TSB Council serves as the highest governing authority within communities operating under The Sovereign Brotherhood.
 
 ---
 
@@ -93,8 +94,9 @@ Defines:
 * Constitutional powers
 * Community protection clauses
 * Organizational structure
+* Administrative authority
 
-**Document:** `constitution.md`
+➡️ **Document:** [constitution.md](constitution.md)
 
 ---
 
@@ -109,14 +111,15 @@ Defines:
 * Voice Chat rules
 * Promotion policies
 * Safety requirements
+* Member responsibilities
 
-**Document:** `rules.md`
+➡️ **Document:** [rules.md](rules.md)
 
 ---
 
 ## 🛡 Staff Handbook
 
-Guidelines for all staff members.
+Guidelines applicable to all staff members.
 
 Defines:
 
@@ -125,14 +128,15 @@ Defines:
 * Promotion procedures
 * Accountability standards
 * Administrative responsibilities
+* Permission structures
 
-**Document:** `staff.md`
+➡️ **Document:** [staff.md](staff.md)
 
 ---
 
 ## ⚖ Appeals & Dispute Resolution
 
-Official appeals process.
+Official appeals and review procedures.
 
 Defines:
 
@@ -140,9 +144,9 @@ Defines:
 * Evidence requirements
 * Council review process
 * Staff appeals
-* Dispute resolution
+* Dispute resolution procedures
 
-**Document:** `appeal.md`
+➡️ **Document:** [appeal.md](appeal.md)
 
 ---
 
@@ -162,26 +166,12 @@ The TSB ecosystem may include:
 * Voice Chats
 * Bots
 * Services
-* Events
 * Projects
+* Events
+* Educational Initiatives
+* Community Programs
 
-Unless explicitly stated otherwise, all official TSB-operated communities fall under the governance framework described within this repository.
-
----
-
-# ⚖ Council Support
-
-Official appeals and dispute resolution:
-
-### @TSB_Council_Support
-
-Members may contact Council Support regarding:
-
-* Appeals
-* Staff concerns
-* Community disputes
-* Rule clarifications
-* Governance questions
+Unless explicitly stated otherwise, all official TSB-operated communities and services fall under the governance framework described within this repository.
 
 ---
 
@@ -192,16 +182,38 @@ The policies and procedures contained within this repository apply to:
 * Current TSB communities
 * Future TSB communities
 * Official TSB projects
-* Official TSB events
 * Official TSB services
 * Official TSB bots
+* Official TSB events
 * Official TSB representatives
+* Official TSB platforms
 
 unless explicitly stated otherwise.
 
+Participation in any TSB-operated environment constitutes acceptance of applicable policies and procedures.
+
 ---
 
-# 📋 Repository Structure
+# ⚖ Council Support
+
+Official appeals and dispute resolution:
+
+## @TSB_Council_Support
+
+Members may contact Council Support regarding:
+
+* Appeals
+* Staff concerns
+* Community disputes
+* Rule clarifications
+* Governance questions
+* Administrative concerns
+
+Please remain respectful and professional when contacting Council representatives.
+
+---
+
+# 📂 Repository Structure
 
 ```text
 TSB-Council/
@@ -211,8 +223,8 @@ TSB-Council/
 ├── rules.md
 ├── staff.md
 ├── appeal.md
-│
-└── assets/
+├── CHANGELOG.md
+└── LICENSE
 ```
 
 ---
@@ -221,15 +233,24 @@ TSB-Council/
 
 TSB governance documents may be updated periodically.
 
-Major changes may include:
+Examples include:
 
 * Rule updates
-* Policy changes
 * Governance reforms
 * Security improvements
 * Organizational restructuring
+* Community policy changes
+* Administrative improvements
 
-Members are encouraged to review documents periodically.
+Members are encouraged to review documentation periodically.
+
+---
+
+# 📜 Licensing
+
+Unless otherwise stated, governance documents contained within this repository remain the intellectual property of the TSB Council.
+
+Refer to the LICENSE file for additional details.
 
 ---
 
@@ -240,11 +261,23 @@ TSB exists to build communities founded upon:
 * Brotherhood
 * Respect
 * Accountability
+* Fairness
 * Growth
 * Security
 * Stability
 
-We believe strong communities are built through cooperation, fairness, and responsible leadership.
+We believe strong communities are built through cooperation, responsible leadership, mutual respect, and long-term vision.
+
+---
+
+# 📈 Current Repository Status
+
+| Document        | Status   |
+| --------------- | -------- |
+| Constitution    | ✅ Active |
+| Community Rules | ✅ Active |
+| Staff Handbook  | ✅ Active |
+| Appeals Policy  | ✅ Active |
 
 ---
 
