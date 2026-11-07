@@ -223,7 +223,6 @@ TSB-Council/
 ├── rules.md
 ├── staff.md
 ├── appeal.md
-├── CHANGELOG.md
 └── LICENSE
 ```
 
@@ -250,7 +249,7 @@ Members are encouraged to review documentation periodically.
 
 Unless otherwise stated, governance documents contained within this repository remain the intellectual property of the TSB Council.
 
-Refer to the LICENSE file for additional details.
+Refer to the existing [LICENSE](LICENSE) for the supplied terms. This documentation update does not change those terms or Council ownership.
 
 ---
 
@@ -296,3 +295,10 @@ We believe strong communities are built through cooperation, responsible leaders
 *"Order Through Brotherhood • Strength Through Unity"*
 
 </div>
+
+
+## Reading and maintaining this repository
+
+This is a Markdown governance-document repository, not an application or bot runtime. No installation, package build, database, authentication service or deployment command is required. Open the linked constitution, rules, staff and appeal documents on GitHub or in a Markdown viewer. The document links and listed files were checked against this revision; there is no CHANGELOG.md, so Git history records changes.
+
+The Council's existing policy language, support handle and attribution are preserved. This documentation review does not independently verify support availability or active enforcement in external communities. Changes to governance policy require the Council's own review; no policy change is made here.
